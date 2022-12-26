@@ -1,5 +1,3 @@
-package Proje3;
-
 public class Maas {
     public static void main(String[] args) {
 
