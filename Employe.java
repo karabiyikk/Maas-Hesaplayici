@@ -1,5 +1,3 @@
-package Proje3;
-
 public class Employe {
     String name;
     int salary;
